@@ -1,0 +1,11 @@
+next-tailwind/
+│
+├── package.json
+├── next.config.js
+├── postcss.config.js
+├── tailwind.config.js
+├── pages/
+│   └── index.js
+├── styles/
+│   └── globals.css
+└── README.md
